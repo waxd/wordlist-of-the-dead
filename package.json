@@ -1,0 +1,14 @@
+{
+    "name": "wordlist-of-the-dead",
+    "version": "0.0.1",
+    "description": "An app to modify wordlist files for the game Typing of the Dead.",
+    "main": "app.js",
+    "scripts": {
+	"start": "electron ."
+    },
+    "author": {
+	"name": "David Wax",
+	"email": "david.allen.wax@gmail.com",
+	"url": "https://waxd.dev"
+    }	
+}
